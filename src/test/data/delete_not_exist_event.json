@@ -1,0 +1,6 @@
+{
+  "actionType": "DELETE",
+  "transactionId": "T123123121311",
+  "eventType": "UPI_P2P_MERCHANT_REDEMPTION",
+  "kafkaTopic": "kafka"
+}

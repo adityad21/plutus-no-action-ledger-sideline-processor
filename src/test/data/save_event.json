@@ -1,0 +1,6 @@
+{
+  "actionType": "PERSIST",
+  "transactionId": "T822929929210",
+  "eventType": "UPI_P2P_MERCHANT_REDEMPTION",
+  "kafkaTopic": "kafka"
+}

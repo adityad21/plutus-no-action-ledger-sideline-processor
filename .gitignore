@@ -1,0 +1,9 @@
+*.iml
+*.ip*
+*.iw*
+.idea
+data/*
+dependency-reduced-pom.xml
+target/*
+*/target/**
+.DS_Store
